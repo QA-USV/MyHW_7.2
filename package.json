@@ -1,8 +1,28 @@
 {
-  "dependencies": {
-    "eslint": "^8.30.0"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.1"
-  }
+ "name": "mywh_7.2",
+ "version": "1.0.0",
+ "description": "my homework task 7.2",
+ "main": "index.js",
+ "scripts": {
+  "eslint": "eslint",
+  "prettier": "prettier",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/QA-USV/MyWH_7.2.git"
+ },
+ "keywords": [
+  "netology"
+ ],
+ "author": "USV",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/QA-USV/MyWH_7.2/issues"
+ },
+ "homepage": "https://github.com/QA-USV/MyWH_7.2#readme",
+ "devDependencies": {
+  "eslint": "^8.30.0",
+  "prettier": "^2.8.1"
+ }
 }

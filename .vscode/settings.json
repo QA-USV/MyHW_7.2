@@ -7,5 +7,10 @@
         "latex",
         "plaintext",
         "javascript"
+    ],
+    "debug.javascript.codelens.npmScripts": "top",
+    "npm.enableRunFromFolder": true,
+    "cSpell.words": [
+        "netology"
     ]
 }
